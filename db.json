@@ -1,0 +1,40 @@
+{
+    "usuarios":[
+        {
+            "Username": "Admin",
+            "Password": "123"
+        }
+    ],
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "Mouse",
+            "Precio": "30.00"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "Mouse",
+            "Precio": "30.00"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "Pantalla",
+            "Precio": "200.00"
+        },
+        {
+            "Id": 4,
+            "Descripcion": "Memoria RAM",
+            "Precio": "100.00"
+        },
+        {
+            "Id": 5,
+            "Descripcion": "Teclado",
+            "Precio": "200.00"
+        },
+        {
+            "Id": 6,
+            "Descripcion": "Laptop",
+            "Precio": "5000.00"
+        }
+    ]
+}
